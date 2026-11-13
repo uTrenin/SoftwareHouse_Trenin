@@ -1,4 +1,4 @@
-# PIANO ARCHITETTURALE & CONTRATTI — PulseCoach_AI_Native
+# PIANO ARCHITETTURALE & CONTRATTI — SoftwareHouse_Trenin
 
 > Da compilare Sabato 11:00–12:30 prima di lanciare lo Swarm parallelo.
 

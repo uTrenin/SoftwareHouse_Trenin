@@ -1,4 +1,4 @@
-# COSTITUZIONE DEL PROGETTO — PulseCoach_AI_Native
+# COSTITUZIONE DEL PROGETTO — SoftwareHouse_Trenin
 
 Leggi sempre `docs/spec.md` e `docs/plan.md` prima di creare o modificare qualsiasi file.
 

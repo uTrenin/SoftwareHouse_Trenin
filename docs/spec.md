@@ -1,4 +1,4 @@
-# SPEC FUNZIONALE — PulseCoach_AI_Native
+# SPEC FUNZIONALE — SoftwareHouse_Trenin
 
 > Da compilare insieme Sabato 09:30–11:00 prima di scrivere codice.
 

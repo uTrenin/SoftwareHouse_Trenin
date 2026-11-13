@@ -1,4 +1,4 @@
-# BACKLOG ATOMICO DI SPRINT — PulseCoach_AI_Native
+# BACKLOG ATOMICO DI SPRINT — SoftwareHouse_Trenin
 
 - [ ] [T1] [Recinto 1] Setup DB, migrazioni e Auth
 - [ ] [T2] [Recinto 1] Endpoint API e test sicurezza cross-tenant

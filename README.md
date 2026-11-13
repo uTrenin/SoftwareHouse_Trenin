@@ -1,4 +1,4 @@
-# PulseCoach_AI_Native
+# SoftwareHouse_Trenin
 
 Repository del progetto sviluppato secondo la metodologia **Software House AI-Native**.
 
